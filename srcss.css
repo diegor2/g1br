@@ -1,0 +1,37 @@
+body { scrollbar-face-color:#f5f5f5; scrollbar-highlight-color:#ffffff; scrollbar-3dlight-color:#ffffff; scrollbar-darkshadow-color:#ffffff; scrollbar-shadow-color:#ffffff; scrollbar-arrow-color:#c0c0c0; scrollbar-track-color:#ffffff}
+input {border-color:gray;border-width:1px;background:#f9f9f9;color:black;font-family:verdana;font-size:11px;}
+textarea {border-color:gray;border-width:1px;background:#f9f9f9;color:black;font-family:verdana;font-size:11px;}
+select {border-color:gray;border-width:1px;background:#f9f9f9;color:black;font-family:verdana;font-size:10px;}
+
+
+a:link.rtm {color:white;font-family:Verdana;font-size:12;text-decoration:none}
+a:active.rtm {color:white;font-family:Verdana;font-size:12;text-decoration:none}
+a:visited.rtm {color:white;font-family:Verdana;font-size:12;text-decoration:none}
+a:hover.rtm {color:lightyellow;font-family:Verdana;font-size:12;text-decoration:underline}
+
+a:link.m {color:black;font-family:Verdana;font-size:11;text-decoration:none}
+a:active.m {color:black;font-family:Verdana;font-size:11;text-decoration:underline}
+a:visited.m {color:black;font-family:Verdana;font-size:11;text-decoration:none}
+a:hover.m {color:#000000;font-family:Verdana;font-size:11;text-decoration:underline}
+
+a:link.a {color:gray;font-family:Verdana;font-size:10;text-decoration:none}
+a:active.a {color:gray;font-family:Verdana;font-size:10;text-decoration:none}
+a:visited.a {color:gray;font-family:Verdana;font-size:10;text-decoration:none}
+a:hover.a {color:#000000;font-family:Verdana;font-size:10;text-decoration:underline}
+font.a {font-family:Verdana;font-size:10px;color:white;text-decoration:none}
+
+a:link.b {color:black;font-family:Verdana;font-size:11;text-decoration:none}
+a:active.b {color:black;font-family:Verdana;font-size:11;text-decoration:underline}
+a:visited.b {color:black;font-family:Verdana;font-size:11;text-decoration:none}
+a:hover.b {color:#000000;font-family:Verdana;font-size:11;text-decoration:underline}
+
+a:link.c {color:gray;font-family:Verdana;font-size:11;text-decoration:none}
+a:active.c {color:gray;font-family:Verdana;font-size:11;text-decoration:underline}
+a:visited.c {color:gray;font-family:Verdana;font-size:11;text-decoration:none}
+a:hover.c {color:gray;font-family:Verdana;font-size:11;text-decoration:underline}
+
+hr.ht {position:absolute;top:5px;left:5px;color:#C9C98F;height:1px;width=764}
+a:link.l {color:#884B26;font-family:Verdana;font-size:10;text-decoration:none}
+a:active.l {color:#884B26;font-family:Verdana;font-size:10;text-decoration:underline}
+a:visited.l {color:#884B26;font-family:Verdana;font-size:10;text-decoration:none}
+a:hover.l {color:#884B26;font-family:Verdana;font-size:10;text-decoration:underline}
